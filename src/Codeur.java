@@ -4,7 +4,7 @@ import java.text.Normalizer;
 
 public class Codeur {
 
-    public static String normalize(String str) {
+   /* public static String normalize(String str) {
         return Normalizer.normalize(str, Normalizer.Form.NFD)
                 .replaceAll("[\u0300-\u036F]", "")
                 .toUpperCase();
@@ -93,4 +93,5 @@ public class Codeur {
     }
 
     */
+}
 
