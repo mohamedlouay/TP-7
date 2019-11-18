@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a04117d-ecd6-49f9-8c6d-db2cafd8e421" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnalyseFrequentielle.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnalyseFrequentielle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnalyseFrequentielle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnalyseFrequentielle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entrainement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnalyseFrequentielle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cesar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeur.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Codeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeur.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574016557197</updated>
       <workItem from="1574016563231" duration="12885000" />
-      <workItem from="1574076812846" duration="16287000" />
+      <workItem from="1574076812846" duration="17067000" />
     </task>
     <servers />
   </component>
